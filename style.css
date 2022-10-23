@@ -48,12 +48,14 @@ body {
 .qr-card__heading {
     margin-top: 1rem;
     font-size: 1.3rem;
+    color: hsl(218, 44%, 22%);
 }
 
 .qr-card__paragraph {
     opacity: 0.7;
     margin-top: 1rem;
     margin-bottom: 1rem;
+    color: hsl(220, 15%, 55%);
 }
 
 .footer {
